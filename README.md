@@ -24,13 +24,13 @@
 1. Firstly install [Termux](https://termux.com) apk from [HERE](https://f-droid.org/repo/com.termux_118.apk)
 2. Secondly Clone the Repository & Run the setup File
 ```
-   - pkg update -y && pkg upgrade -y
-   - pkg install wget -y
-   - wget https://raw.githubusercontent.com/sabamdarif/kali-proot/main/setup.sh
-   - chmod +x setup.sh
-   - bash setup.sh
-   - kali
-   - bash gui.sh
+pkg update -y && pkg upgrade -y
+pkg install wget -y
+wget https://raw.githubusercontent.com/sabamdarif/kali-proot/main/setup.sh
+chmod +x setup.sh
+bash setup.sh
+kali
+bash gui.sh
      done
    - Now select **XFCE**, **KDE**, **LXDE**, **LXQT** OR **GNOME** Desktop (any one)
 ```
