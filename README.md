@@ -1,4 +1,3 @@
-
 <center><img src="./image/demo-xfce.png"></center>
 <p align="center"><b>Easily Install Full Kali Linux Verious Type Of Desktop in Termux</b></p>
 
@@ -32,7 +31,7 @@ bash setup.sh
 kali
 bash gui.sh
      done
-   - Now select **XFCE**, **KDE**, **LXDE**, **LXQT** OR **GNOME** Desktop (any one)
+Now select **XFCE**, **KDE**, **LXDE**, **LXQT** OR **GNOME** Desktop (any one)
 ```
 ### DEMO IMAGES:
 <details></br>
